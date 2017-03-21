@@ -1,0 +1,22 @@
+#topheader {
+  margin-left: 30%; }
+
+.audio {
+  margin-left: 35%; }
+
+#searchArtist {
+  border: 2px solid black; }
+
+#enter {
+  margin-top: 0px auto;
+  border: 2px solid black; }
+
+.searchBar {
+  margin-left: 37%;
+  padding: 20px 20px; }
+
+.songs {
+  border: 2px solid; }
+
+.artist {
+  margin-top: 50px; }
